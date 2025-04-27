@@ -58,12 +58,9 @@ This project involves the design and verification of a 4-bit Arithmetic Logic Un
 
 ---
 
-## Simulation Screenshot
-Below is a sample simulation waveform output:
+## Simulation results
 
-> *(Insert your simulation waveform image here once you have it.)*  
-> Example:  
-> ![Simulation waveform](Simulation_waveform.png)
+![Simulation waveform](https://github.com/nandiniyamani/(https://github.com/nandiniyamani/Design-and-Verification-of-4-bit-ALU-using-SystemVerilog/tree/main/Simulation waveform.png)
 
 ---
 
