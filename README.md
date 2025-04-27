@@ -60,7 +60,7 @@ This project involves the design and verification of a 4-bit Arithmetic Logic Un
 
 ## Simulation results
 
-![Simulation waveform][https://github.com/nandiniyamani/Design-and-Verification-of-4-bit-ALU-using-SystemVerilog/tree/main/Simulationwaveform.png]
+![simulationwaveform][https://github.com/nandiniyamani/Design-and-Verification-of-4-bit-ALU-using-SystemVerilog/tree/main/simulationwaveform.png]
 
 ---
 
